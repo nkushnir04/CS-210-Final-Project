@@ -1,4 +1,4 @@
-Bitcoin Analysis
+Bitcoin Analysis:
 This project aims to look at Bitcoin's price movement during key economic events and to predict future Bitcoin prices. The dataset was obtained off of yahoofinance.
 
 Required Libraries:
